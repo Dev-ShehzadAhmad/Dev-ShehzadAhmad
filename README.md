@@ -6,7 +6,7 @@ I am an aspiring **Web Developer** from Pakistan. I am currently transitioning i
 - 🔭 I’m currently working on my **Portfolio Website**.
 - 🌱 I’m currently learning **JavaScript & Advanced CSS**.
 - 🥅 Goals: To become a Full-Stack Developer and work on remote projects.
-- ⚡ Fun fact: I balance a Government job while chasing my coding dreams!
+- ⚡ Fun fact: I love solving complex problems with simple code!
 
 ---
 
